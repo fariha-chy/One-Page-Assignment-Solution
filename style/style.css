@@ -1,0 +1,110 @@
+body{margin: 0%;
+    font-family: 'Poppins', sans-serif;}
+
+.heading-1{margin: 0%;
+    font-size: 40px;
+    font-weight: 700;}
+
+.heading-2{font:bolder;
+    font-size:25px;}
+
+.button{font: bold;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 5%;
+    color: beige;}
+
+    /* This is section 1 */
+
+.section-1{
+    background-image: url(/image/bg-one.jpg);
+    box-shadow: inset 0 0 0 5000px rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    padding-left: 15% ;
+    padding-right: 15% ;
+    text-align: center;
+    color: antiquewhite;}
+
+    /* This is section 2 */
+
+.section-2{text-align: center;
+    margin: 3% 10%;}
+.tk{margin: 2%;
+    border: none;
+    padding: 40px 20px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    background-color:gainsboro;}
+#red{display: inline;
+    padding: 40px 20px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    background-color:gainsboro;
+    border: 1px solid red ;
+    color: red;}
+
+#amount{text-align: center;
+    border: none;
+    background-color: none;}
+hr{margin:0% 25%;}
+
+    /* This is section 3 */
+
+.continer{display: flex;}
+.section-3{margin: 5% 10%;}
+#donate-plan{text-align: center;
+    padding: 2% 10%;}
+.item{width: 100%;
+    padding: 2%;
+    margin: 0 20px;}
+#it1{background-color: aquamarine;}
+#it2{background-color: aqua;}
+#it3{background-color: blanchedalmond;}
+
+    /* This is section 4 */
+
+.section-4{display: flex;
+    margin: 5% 15%;}
+.half1{width: 50%;}
+.half1 img{width: 90%;}
+
+    /* This is section 5 */
+
+.section-5{display: flex;
+    margin: 5% 15%;}
+.half2{width: 50%;}
+.half2 img{width: 90%;}
+
+    /* This is section 6 */
+
+.section-6{text-align: center;
+    margin: 5% 15%;}
+.update{padding: 2%;}
+form{display: inline-flex;
+    background-color:bisque;
+    padding: 8% 20%;
+    border-radius: 2%;}
+.email{padding: 10px;
+    border: 0ch;
+    background-color: gainsboro;
+    border-radius: 5px 0px 0px 5px ;}
+.subscribe{padding: 10px;
+    border: 0ch;
+    background-color: orangered;
+    border-radius: 0px 5px 5px 0px  ;}
+        
+    /* This is section 7 */
+
+footer {padding: 1%;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    font-weight: 600;}
+footer h2{color: brown;
+    font-family:'Times New Roman', italic;}
